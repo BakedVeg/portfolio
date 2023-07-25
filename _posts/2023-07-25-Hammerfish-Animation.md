@@ -8,4 +8,4 @@ tags:
   - 
 ---
     
-<object data="../assets/images/HoudiniHammerfishGeoNetwork.png" width="1000" height="1200" type='image/png'></object>
+<img src="HoudiniHammerfishGeoNetwork.png" alt="Im Dead">
