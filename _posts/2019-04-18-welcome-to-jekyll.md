@@ -8,4 +8,4 @@ tags:
   - 
 ---
     
-<object data="../assets/images/HoudiniHammerfishGeoNetwork.png" width="1200" height="2400" type='image/png'></object>
+<object data="../assets/images/HoudiniHammerfishGeoNetwork.png" width="1000" height="1200" type='image/png'></object>
