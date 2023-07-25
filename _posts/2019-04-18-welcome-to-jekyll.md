@@ -7,5 +7,6 @@ tags:
   - Houdini
   - 
 ---
+    
+<img src="../assets/images/HoudiniHammerfishGeoNetwork.png" style="width:200px;height:200px;"> 
 
-<img src="../assets/images/HoudiniHammerfishGeoNetwork.png" alt="bleh">
