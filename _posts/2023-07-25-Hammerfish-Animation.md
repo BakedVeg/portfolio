@@ -19,11 +19,13 @@ This is a part of some early testing I've been doing for creature animations, me
   <div style="float: left; margin-left 1em;">
     <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishAnimTopAlpha.gif">
   </div>
-  <p>
+   <div>
+    <p>
 
 
     
-  </p>
+    </p>
+  </div>
   <div>
     <h2>Main Body</h2>
     <p>I started with a sphere, grouped both ends and used soft transforms to get the desired bell shape. Then smoothed the result.</p>
