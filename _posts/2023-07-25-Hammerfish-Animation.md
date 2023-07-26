@@ -13,8 +13,8 @@ This is a part of some early testing I've been doing for simple organic creature
 
 <img src="https://bakedveg.github.io/portfolio/assets/gifs/HammerfishAnimLoop.gif">
 
-<img style="float: right;" src="https://bakedveg.github.io/portfolio/assets/images/Step 1.png">
-Text to left of image
+
+<img src="https://bakedveg.github.io/portfolio/assets/images/Step1.png">
 
 
 
