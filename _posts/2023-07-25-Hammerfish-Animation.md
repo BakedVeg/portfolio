@@ -13,17 +13,15 @@ This is a part of some early testing I've been doing for creature animations, me
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishAnimLoopAlpha.gif">
 
+<img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishAnimTopAlpha.gif">
 
+
+<br>
+<br>
 
 <div style="clear: both;">
   <div style="float: left; margin-left 1em;">
-    <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishAnimTopAlpha.gif">
   </div>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
   <div>
     <h2>Main Body</h2>
     <p>I started with a sphere, grouped both ends and used soft transforms to get the desired bell shape. Then smoothed the result.</p>
