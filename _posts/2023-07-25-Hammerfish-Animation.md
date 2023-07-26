@@ -20,19 +20,15 @@ This is a part of some early testing I've been doing for creature animations, me
 <br>
 
 <div style="clear: both;">
-    <h2>Main Body</h2>
+    <h2>Body</h2>
     <p>I started with a sphere, grouped both ends and used soft transforms to get the desired bell shape. Then smoothed the result.</p>
 </div>
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/BodyCreationWalkthroughAlphaFixed.gif">
 
 <div style="clear: both;">
-  <div style="float: left; margin-left 1em;">
-  </div>
-  <div>
     <h2>"Hammers"</h2>
     <p>I find it easiest to start with curves when there's a specific silhouette I'm looking for. This is extruded and then subdivided. The top and bottom faces are grouped and transformed to give a rounder appearance after its been converted to a VDB, back to polygons, and smoothed. The result is mirrored to give that hammerhead-like shape. Little details are added to it afterward. </p>
-  </div>
 </div>
 
 
