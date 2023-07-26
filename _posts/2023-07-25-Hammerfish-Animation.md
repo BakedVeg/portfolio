@@ -66,7 +66,7 @@ This is a part of some early testing I've been doing for creature animations, me
   </div>
   <div>
     <h2>Texturing</h2>
-    <p>I used "quick material" nodes throughout so that when I exported to Substance Painter for texturing, the texture sets were filled out. Substance recognizes different name attributes as separate meshes and a shop_materialpath name as a texture set.</p>
+    <p>I used "quick material" nodes throughout so that when I exported to Substance Painter, the texture sets were filled out. Substance recognizes different name attributes as separate meshes and a shop_materialpath name as a texture set.</p>
   </div>
 </div>
 
