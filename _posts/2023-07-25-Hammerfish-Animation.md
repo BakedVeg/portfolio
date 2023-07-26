@@ -15,13 +15,11 @@ This is a part of some early testing I've been doing for creature animations, me
 
 <img src="https://bakedveg.github.io/portfolio/assets/gifs/HammerfishAnimLoopTop.gif">
 
-<img src="https://bakedveg.github.io/portfolio/assets/images/Step1.png">
+<img src="https://bakedveg.github.io/portfolio/assets/gifs/BodyCreationWalkthrough.gif">
 
-<img src="https://bakedveg.github.io/portfolio/assets/images/Step2.png">
+<img src="https://bakedveg.github.io/portfolio/assets/gifs/HammerCreationWalkthrough.gif">
 
-<img src="https://bakedveg.github.io/portfolio/assets/images/Step3.png">
-
-<img src="https://bakedveg.github.io/portfolio/assets/images/Step4.png">
+<img src="https://bakedveg.github.io/portfolio/assets/gifs/CombinationWalkthrough.gif">
 
 <img src="https://bakedveg.github.io/portfolio/assets/gifs/VellumTentacleWalkthrough.gif">
 
