@@ -12,6 +12,4 @@ This is a part of some early testing I've been doing for simple organic creature
 
 
 
-![image](/assets/gifs/HoudiniHammerheadfishWireframeMaterial.gif)
-<img src="https://bakedveg.github.io/portfolio/assets/gifs/HoudiniHammerheadfishWireframeMaterial.gif">
-
+![image](/assets/images/HoudiniHammerfishGeoNetwork.png)
