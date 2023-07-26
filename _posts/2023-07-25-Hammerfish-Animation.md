@@ -69,6 +69,7 @@ This is a part of some early testing I've been doing for creature animations, me
 <br>
 <img src="https://bakedveg.github.io/portfolio/assets/images/FinalTextured.png">
 
+<img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishInEngineAnim.gif">
 
 
 <div style="clear: both;">
