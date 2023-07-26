@@ -12,3 +12,5 @@ This is a part of some early testing I've been doing for simple organic creature
 
 
 <img src="https://bakedveg.github.io/portfolio/assets/gifs/HammerfishWireframeMaterial.gif">
+
+<img src="https://bakedveg.github.io/portfolio/assets/images/HoudiniHammerfishGeoNetwork.png">
