@@ -84,12 +84,12 @@ This is a part of some early testing I've been doing for creature animations, me
 </div>
 
 
+<br>
+
+
 
 <div style="clear: both;">
     <h2>Full Network</h2>
     <p></p>
 </div>
-
-<br>
-
 <img src="https://bakedveg.github.io/portfolio/assets/images/HoudiniHammerfishGeoNetwork.png">
