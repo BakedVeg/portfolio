@@ -23,25 +23,20 @@ This is a part of some early testing I've been doing for creature animations, me
     <h2>Body</h2>
     <p>I started with a sphere, grouped both ends and used soft transforms to get the desired bell shape. Then smoothed the result.</p>
 </div>
-
 <img src="https://bakedveg.github.io/portfolio/assets/gif/BodyCreationWalkthroughAlphaFixed.gif">
+
 
 <div style="clear: both;">
     <h2>"Hammers"</h2>
     <p>I find it easiest to start with curves when there's a specific silhouette I'm looking for. This is extruded and then subdivided. The top and bottom faces are grouped and transformed to give a rounder appearance after its been converted to a VDB, back to polygons, and smoothed. The result is mirrored to give that hammerhead-like shape. Little details are added to it afterward. </p>
 </div>
-
 <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerCreationWalkthroughAlpha.gif">
 
+
 <div style="clear: both;">
-  <div style="float: left; margin-left 1em;">
-  </div>
-  <div>
     <h2>Combine Body and "Hammers"</h2>
     <p>The pieces are merged by converting to VDB, then back to polys. I get a useable topology using Quadremesher, before splitting the mesh into one "quadrant". All my references were squids with these beautiful patterns. Some of them had a nice symmetry to them, and in pursuit of that look, I felt it best to have mirrored UVs. This made it easier to texture in Substance Painter and gave me a higher resolution for details.   </p>
-  </div>
 </div>
-
 <img src="https://bakedveg.github.io/portfolio/assets/gif/CombinationWalkthroughAlpha.gif">
 
 
@@ -55,18 +50,14 @@ This is a part of some early testing I've been doing for creature animations, me
   </div>
 </div>
 
-
+<br>
+<br>
 
 
 <div style="clear: both;">
-  <div style="float: right; margin-right 1em;">
-  </div>
-  <div>
     <h2>Final Assembly</h2>
     <p>Both pieces were then moved into position using transforms.</p>
-  </div>
 </div>
-
 <img src="https://bakedveg.github.io/portfolio/assets/images/FinalAssembly.png">
 
 
