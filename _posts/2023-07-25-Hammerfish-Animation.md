@@ -65,6 +65,8 @@ This is a part of some early testing I've been doing for creature animations, me
     <h2>Texturing</h2>
     <p>I used "quick material" nodes throughout so that when I exported to Substance Painter, the texture sets were filled out. Substance recognizes different name attributes as separate meshes and a shop_materialpath as a texture set. I merge the textures afterward using TextureMerger by PlayCreative, this just happens to be a tool I found early on even though I've seen other ones as well.</p>
 </div>
+<img src="https://bakedveg.github.io/portfolio/assets/images/SubstanceExportingExample.png">
+<br>
 <img src="https://bakedveg.github.io/portfolio/assets/images/FinalTextured.png">
 
 
