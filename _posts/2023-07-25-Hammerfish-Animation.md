@@ -57,8 +57,8 @@ This is a part of some early testing I've been doing for creature animations, me
     <img src="https://bakedveg.github.io/portfolio/assets/gif/VellumTentacleWalkthroughAlpha.gif">
   </div>
   <div>
-    <h2>Some title text</h2>
-    <p>Some more text that will appear to the left of the image.</p>
+    <h2>Vellum Tentacles</h2>
+    <p>All of the animations (including the main body) are done using transforms with parameters driven by a CHOP node so it's easily visualized, tweaked, and in sync. For the tentacle animation, I copied lines to a disc, ran that through a vellum hair sim, and swept the resulting curves. Details were added by copying planes and tentacle "feet" to points I grouped after the vellum sim.  </p>
   </div>
 </div>
 
