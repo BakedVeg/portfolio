@@ -20,12 +20,8 @@ This is a part of some early testing I've been doing for creature animations, me
 <br>
 
 <div style="clear: both;">
-  <div style="float: left; margin-left 1em;">
-  </div>
-  <div>
     <h2>Main Body</h2>
     <p>I started with a sphere, grouped both ends and used soft transforms to get the desired bell shape. Then smoothed the result.</p>
-  </div>
 </div>
 
 
