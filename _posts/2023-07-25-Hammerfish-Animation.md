@@ -63,13 +63,23 @@ This is a part of some early testing I've been doing for creature animations, me
 
 <div style="clear: both;">
     <h2>Texturing</h2>
-    <p>I used "quick material" nodes throughout so that when I exported to Substance Painter, the texture sets were filled out. Substance recognizes different name attributes as separate meshes and a shop_materialpath as a texture set. I merge the textures afterward using TextureMerger by PlayCreative, this just happens to be a tool I found early on even though I've seen other ones as well.</p>
+    <p>I exported frame 1 to Substance for texturing. The body was the main piece I had to work on since I knew I wanted the tentacles to be emissive, with little detail coming from the Diffuse map. I gave them a gradient using vertex colors to serve as the emissive mask and created some controls in the Unreal material to offset the gradient and control contrast. In this project, I used "quick material" nodes to create texture sets that were later merged together. If I was going to do a lot of back-and-forth iteration to find the look in-engine, I would have used a name attribute to separate the meshes in Substance and not have multiple texture sets to merge every time I export. </p>
 </div>
 <img src="https://bakedveg.github.io/portfolio/assets/images/SubstanceExportingExample.png">
 <br>
 <img src="https://bakedveg.github.io/portfolio/assets/images/FinalTextured.png">
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishInEngineAnim.gif">
+
+
+<br>
+
+
+<div style="clear: both;">
+    <h2></h2>
+    <p>In Conclusion.</p>
+</div>
+
 
 
 <div style="clear: both;">
