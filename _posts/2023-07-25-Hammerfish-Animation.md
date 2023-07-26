@@ -14,6 +14,7 @@ This is a part of some early testing I've been doing for creature animations, me
     <h2></h2>
     <p></p>
 </div>
+<br>
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishAnimLoopAlpha.gif">
 
@@ -88,5 +89,7 @@ This is a part of some early testing I've been doing for creature animations, me
     <h2>Full Network</h2>
     <p></p>
 </div>
+
+<br>
 
 <img src="https://bakedveg.github.io/portfolio/assets/images/HoudiniHammerfishGeoNetwork.png">
