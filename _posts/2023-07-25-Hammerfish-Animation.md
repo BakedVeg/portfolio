@@ -45,7 +45,7 @@ This is a part of some early testing I've been doing for creature animations, me
   </div>
   <div>
     <h2>Combine Body and "Hammers"</h2>
-    <p>Put together.</p>
+    <p>The pieces are merged by converting to VDB, then back to polys. I get a useable topology using Quadremsher, before splitting the mesh into one "quadrant". My main reference for texturing was this image (<a>https://www.reeflex.net/tiere/3143_Sepioteuthis_sepioidea.htm</a>)  </p>
   </div>
 </div>
 
