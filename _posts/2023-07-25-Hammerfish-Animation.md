@@ -12,3 +12,5 @@ This is a part of some early testing I've been doing for simple organic creature
 
 
 <object data="../assets/gifs/HammerfishWireframeMAterial.gif" width="1000" height="1200" type='img/gif'></object>
+
+<a href="https://imgur.com/a/GaFUkgR"></a>
