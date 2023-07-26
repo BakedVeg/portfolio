@@ -16,6 +16,6 @@ This is a part of some early testing I've been doing for simple organic creature
 
 <img src="https://bakedveg.github.io/portfolio/assets/images/Step1.png">
 
-
+<img src="https://bakedveg.github.io/portfolio/assets/images/Step2.png">
 
 <img src="https://bakedveg.github.io/portfolio/assets/images/HoudiniHammerfishGeoNetwork.png">
