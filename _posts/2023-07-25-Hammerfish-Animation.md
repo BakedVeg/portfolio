@@ -51,7 +51,6 @@ This is a part of some early testing I've been doing for creature animations, me
 </div>
 
 <br>
-<br>
 
 
 <div style="clear: both;">
