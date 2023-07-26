@@ -21,8 +21,8 @@ This is a part of some early testing I've been doing for creature animations, me
     <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishAnimTopAlpha.gif">
   </div>
   <div>
-    <h2>Some title text</h2>
-    <p>Some more text that will appear to the left of the image.</p>
+    <h2>Main Body Creation</h2>
+    <p>I started with a sphere, grouped both ends and used soft transforms to get the desired bell shape. Then smoothed the result.</p>
   </div>
 </div>
 
