@@ -23,6 +23,8 @@ This is a part of some early testing I've been doing for creature animations, me
 
 <img src="https://bakedveg.github.io/portfolio/assets/images/Step4.png">
 
+<img src="https://bakedveg.github.io/portfolio/assets/gifs/VellumTentacleWalkthrough.gif">
+
 <img src="https://bakedveg.github.io/portfolio/assets/images/FinalAssembly.png">
 
 <img src="https://bakedveg.github.io/portfolio/assets/images/FinalTextured.png">
