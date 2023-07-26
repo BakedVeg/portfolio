@@ -68,11 +68,11 @@ This is a part of some early testing I've been doing for creature animations, me
 
 <div style="clear: both;">
     <h2>Texturing</h2>
-    <p>I exported the mesh to Substance Painter for texturing. The body was the main piece I had to work on since I knew I wanted the tentacles to be emissive, with little detail coming from the Diffuse map. I gave them a gradient using vertex colors to serve as the emissive mask and created some controls in the Unreal material to offset the gradient and control contrast. In this project, I used "quick material" nodes to create texture sets that were easily merged together using TextureMerger from PlayCreative. Created two normal maps in Designer, one for splotchy macro noise and a detail map to give a skin-like appearance, better visible on my Arststation.</p>
+    <p>I exported the mesh to Substance Painter for texturing. The body was the main piece I had to work on since I knew I wanted the tentacles to be emissive, with little detail coming from the Diffuse map. I gave them a gradient using vertex colors to serve as the emissive mask and created some controls in the Unreal material to offset the gradient and control contrast. In this project, I used "quick material" nodes to create texture sets that were easily merged together using TextureMerger from PlayCreative. Created two normal maps in Designer, one for splotchy macro noise and a detail map to give a skin-like appearance.</p>
 </div>
 
 <br>
-<img src="https://bakedveg.github.io/portfolio/assets/images/FinalTextured.png">
+<img src="https://bakedveg.github.io/portfolio/assets/images/HammerfishSkinDetail.png">
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishInEngineAnim.gif">
 
