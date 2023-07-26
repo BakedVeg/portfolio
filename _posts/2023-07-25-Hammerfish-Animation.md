@@ -70,7 +70,7 @@ This is a part of some early testing I've been doing for creature animations, me
   </div>
   <div>
     <h2>Final Assembly</h2>
-    <p>All of the pieces were then moved into position using transforms.</p>
+    <p>Both pieces were then moved into position using transforms.</p>
   </div>
 </div>
 
