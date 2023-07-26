@@ -45,7 +45,7 @@ This is a part of some early testing I've been doing for creature animations, me
   </div>
   <div>
     <h2>Combine Body and "Hammers"</h2>
-    <p>The pieces are merged by converting to VDB, then back to polys. I get a useable topology using Quadremsher, before splitting the mesh into one "quadrant". My main reference for texturing was this image (<a>https://www.reeflex.net/tiere/3143_Sepioteuthis_sepioidea.htm</a>)  </p>
+    <p>The pieces are merged by converting to VDB, then back to polys. I get a useable topology using Quadremesher, before splitting the mesh into one "quadrant". All my references were squids with these beautiful patterns. Some of them had a nice symmetry to them, and in pursuit of that look, I felt it best to have mirrored UVs. This made it easier to texture in Substance Painter and gave me a higher resolution for details.   </p>
   </div>
 </div>
 
