@@ -15,6 +15,19 @@ This is a part of some early testing I've been doing for creature animations, me
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishAnimTopAlpha.gif">
 
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="https://bakedveg.github.io/portfolio/assets/gif/VellumTentacleWalkthroughAlpha.gif">
+  </div>
+  <div>
+    <h2>Some title text</h2>
+    <p>Some more text that will appear to the left of the image.</p>
+  </div>
+</div>
+
+
+
 <img src="https://bakedveg.github.io/portfolio/assets/gif/BodyCreationWalkthroughAlpha.gif">
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerCreationWalkthroughAlpha.gif">
