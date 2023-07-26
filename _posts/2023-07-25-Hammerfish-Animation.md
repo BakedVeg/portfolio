@@ -31,11 +31,10 @@ This is a part of some early testing I've been doing for creature animations, me
     <p>I find it easiest to start with curves when there's a specific silhouette I'm looking for. This is extruded and then subdivided. The top and bottom faces are grouped and transformed to give a rounder appearance after its been converted to a VDB, back to polygons, and smoothed. The result is mirrored to give that hammerhead-like shape. Little details are added to it afterward. </p>
 </div>
 
-
+<img src="https://bakedveg.github.io/portfolio/assets/gif/HammerCreationWalkthroughAlpha.gif">
 
 <div style="clear: both;">
   <div style="float: left; margin-left 1em;">
-    <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerCreationWalkthroughAlpha.gif">
   </div>
   <div>
     <h2>Combine Body and "Hammers"</h2>
