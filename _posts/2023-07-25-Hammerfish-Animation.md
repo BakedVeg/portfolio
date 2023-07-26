@@ -17,7 +17,7 @@ This is a part of some early testing I've been doing for creature animations, me
 
 
 <div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
+  <div style="float: right; margin-right 1em;">
     <img src="https://bakedveg.github.io/portfolio/assets/gif/VellumTentacleWalkthroughAlpha.gif">
   </div>
   <div>
