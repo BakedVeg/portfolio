@@ -33,7 +33,7 @@ This is a part of some early testing I've been doing for creature animations, me
   </div>
   <div>
     <h2>"Hammers"</h2>
-    <p>I find it easier to start with curves when there's a specific silhouette I'm looking for. This is extruded and then subdivided. The top and bottom faces are grouped and transformed to give a rounder appearance after its been converted to a VDB, back to polygons, and smoothed. The result is mirrored to give that hammerhead-like shape. Little details are added to it afterward. </p>
+    <p>I find it easiest to start with curves when there's a specific silhouette I'm looking for. This is extruded and then subdivided. The top and bottom faces are grouped and transformed to give a rounder appearance after its been converted to a VDB, back to polygons, and smoothed. The result is mirrored to give that hammerhead-like shape. Little details are added to it afterward. </p>
   </div>
 </div>
 
