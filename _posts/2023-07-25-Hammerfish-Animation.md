@@ -8,7 +8,7 @@ tags:
   - 
 ---
 
-This is a part of some early testing I've been doing for simple organic creature animations, meant for a small game that's been knocking around in my head. The idea is to have several animals roaming about the environment. I'm just one person so I felt like my best shot at accomplishing that would be to do all the modeling inside Houdini, rely on common mograph practices and a bit of simulation sprinkled throughout, to quickly give life to each of the creatures. In my mind, the modeling/animation has to be procedural so that I can create the animations early on, and add more detail to the animals without having to reanimate pieces I've created before. This serves as a brief walkthrough of the setup for this "Hammerfish". At the bottom of the page, you'll find an image of the full network.
+This is a part of some early testing I've been doing for simple organic creature animations, meant for a small game that's been knocking around in my head. The idea is to have several animals roaming about the environment. I'm just one person so I felt like my best shot at accomplishing that would be to do all the modeling inside Houdini, rely on some simple CHOPs-driven animation, and a bit of simulation sprinkled throughout to quickly give life to each of the creatures. In my mind, the modeling/animation has to be procedural so that I can create the animations early on and add more detail to the animals without having to reanimate pieces I've created before. This serves as a brief walkthrough of the setup for this "Hammerfish". At the bottom of the page, you'll find an image of the full network.
 
 
 <img src="https://bakedveg.github.io/portfolio/assets/gifs/HammerfishAnimLoop.gif">
@@ -17,5 +17,9 @@ This is a part of some early testing I've been doing for simple organic creature
 <img src="https://bakedveg.github.io/portfolio/assets/images/Step1.png">
 
 <img src="https://bakedveg.github.io/portfolio/assets/images/Step2.png">
+
+<img src="https://bakedveg.github.io/portfolio/assets/images/Step3.png">
+
+<img src="https://bakedveg.github.io/portfolio/assets/images/Step4.png">
 
 <img src="https://bakedveg.github.io/portfolio/assets/images/HoudiniHammerfishGeoNetwork.png">
