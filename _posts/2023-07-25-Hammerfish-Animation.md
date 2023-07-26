@@ -15,6 +15,11 @@ This is a part of some early testing I've been doing for creature animations, me
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishAnimTopAlpha.gif">
 
+<img src="https://bakedveg.github.io/portfolio/assets/gif/BodyCreationWalkthroughAlpha.gif">
+
+<img src="https://bakedveg.github.io/portfolio/assets/gif/HammerCreationWalkthroughAlpha.gif">
+
+<img src="https://bakedveg.github.io/portfolio/assets/gif/CombinationWalkthroughAlpha.gif">
 
 <div style="clear: both;">
   <div style="float: right; margin-right 1em;">
@@ -25,16 +30,6 @@ This is a part of some early testing I've been doing for creature animations, me
     <p>Some more text that will appear to the left of the image.</p>
   </div>
 </div>
-
-
-
-<img src="https://bakedveg.github.io/portfolio/assets/gif/BodyCreationWalkthroughAlpha.gif">
-
-<img src="https://bakedveg.github.io/portfolio/assets/gif/HammerCreationWalkthroughAlpha.gif">
-
-<img src="https://bakedveg.github.io/portfolio/assets/gif/CombinationWalkthroughAlpha.gif">
-
-<img src="https://bakedveg.github.io/portfolio/assets/gif/VellumTentacleWalkthroughAlpha.gif">
 
 <img src="https://bakedveg.github.io/portfolio/assets/images/FinalAssembly.png">
 
