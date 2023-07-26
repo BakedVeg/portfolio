@@ -21,12 +21,23 @@ This is a part of some early testing I've been doing for creature animations, me
     <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishAnimTopAlpha.gif">
   </div>
   <div>
-    <h2>Main Body Creation</h2>
+    <h2>Main Body</h2>
     <p>I started with a sphere, grouped both ends and used soft transforms to get the desired bell shape. Then smoothed the result.</p>
   </div>
 </div>
 
-<img src="https://bakedveg.github.io/portfolio/assets/gif/BodyCreationWalkthroughAlpha.gif">
+
+
+<div style="clear: both;">
+  <div style="float: left; margin-left 1em;">
+    <img src="https://bakedveg.github.io/portfolio/assets/gif/BodyCreationWalkthroughAlpha.gif">
+  </div>
+  <div>
+    <h2>"Hammers"</h2>
+    <p>I find it easier to start with curves when there's a specific silhouette I'm looking for. This is extruded and then subdivided. The top and bottom faces are grouped and transformed to give a rounder shape after its been converted to a VDB, back to polygons, and smoothed. </p>
+  </div>
+</div>
+
 
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerCreationWalkthroughAlpha.gif">
