@@ -76,6 +76,19 @@ This is a part of some early testing I've been doing for creature animations, me
 
 <img src="https://bakedveg.github.io/portfolio/assets/images/FinalAssembly.png">
 
+
+
+<div style="clear: both;">
+  <div style="float: right; margin-right 1em;">
+  </div>
+  <div>
+    <h2>Texturing</h2>
+    <p>I used "quick material" nodes throughout so that when I exported to Substance Painter for texturing, the texture sets were filled out. Substance recognizes different name attributes as separate meshes and a shop_materialpath name as a texture set.</p>
+  </div>
+</div>
+
 <img src="https://bakedveg.github.io/portfolio/assets/images/FinalTextured.png">
+
+
 
 <img src="https://bakedveg.github.io/portfolio/assets/images/HoudiniHammerfishGeoNetwork.png">
