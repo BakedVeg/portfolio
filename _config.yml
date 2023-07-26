@@ -62,6 +62,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I have a passion for procedural modeling/texturing using Houdini and Substance Designer. Coming from a science background, I value learning through mistakes and iteration, hopefully, more of the latter."
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alan-barnett-10ab03262/"
@@ -71,6 +74,9 @@ author:
 
 footer:
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alan-barnett-10ab03262/"
