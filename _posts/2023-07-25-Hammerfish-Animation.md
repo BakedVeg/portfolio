@@ -15,7 +15,6 @@ This is a part of some early testing I've been doing for creature animations, me
 
 
 
-
 <div style="clear: both;">
   <div style="float: left; margin-left 1em;">
     <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishAnimTopAlpha.gif">
@@ -40,7 +39,15 @@ This is a part of some early testing I've been doing for creature animations, me
 
 
 
-<img src="https://bakedveg.github.io/portfolio/assets/gif/HammerCreationWalkthroughAlpha.gif">
+<div style="clear: both;">
+  <div style="float: left; margin-left 1em;">
+    <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerCreationWalkthroughAlpha.gif">
+  </div>
+  <div>
+    <h2>Combine Body and "Hammers"</h2>
+    <p>Put together.</p>
+  </div>
+</div>
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/CombinationWalkthroughAlpha.gif">
 
