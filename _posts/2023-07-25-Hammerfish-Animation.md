@@ -20,11 +20,11 @@ This is a part of some early testing I've been doing for creature animations, me
     <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishAnimTopAlpha.gif">
   </div>
    <div>
-    <p>
-
-
-    
-    </p>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
   </div>
   <div>
     <h2>Main Body</h2>
