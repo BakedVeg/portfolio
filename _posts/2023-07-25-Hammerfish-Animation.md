@@ -58,10 +58,21 @@ This is a part of some early testing I've been doing for creature animations, me
   </div>
   <div>
     <h2>Vellum Tentacles</h2>
-    <p>All of the animations (including the main body) are done using transforms with parameters driven by a CHOP node so it's easily visualized, tweaked, and in sync. For the tentacle animation, I copied lines to a disc, ran that through a vellum hair sim, and swept the resulting curves. Details were added by copying planes and tentacle "feet" to points I grouped after the vellum sim.  </p>
+    <p>All of the animations (including the main body) are done using transforms with parameters driven by a CHOP node so it's easily visualized, tweaked, and in sync. For the tentacle animation, I copied lines to a disc, ran that through a vellum hair sim, and swept the resulting curves. Details were added by copying planes and tentacle "feet" to points I grouped after the vellum sim. The sweep node generated UVs for the curves, and the other pieces were done separately. All of the UVs were then quickly rearranged manually for easier texturing.  </p>
   </div>
 </div>
 
+
+
+
+<div style="clear: both;">
+  <div style="float: right; margin-right 1em;">
+  </div>
+  <div>
+    <h2>Final Assembly</h2>
+    <p>All of the pieces were then moved into position using transforms.</p>
+  </div>
+</div>
 
 <img src="https://bakedveg.github.io/portfolio/assets/images/FinalAssembly.png">
 
