@@ -91,4 +91,13 @@ This is a part of some early testing I've been doing for creature animations, me
 
 
 
+<div style="clear: both;">
+  <div style="float: right; margin-right 1em;">
+  </div>
+  <div>
+    <h2>Full Network</h2>
+    <p></p>
+  </div>
+</div>
+
 <img src="https://bakedveg.github.io/portfolio/assets/images/HoudiniHammerfishGeoNetwork.png">
