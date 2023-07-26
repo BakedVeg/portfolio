@@ -12,4 +12,4 @@ This is a part of some early testing I've been doing for simple organic creature
 
 
 
-<img src="portfolio/assets/gifs/HoudiniHammerheadfishWireframeMaterial.gif" alt="NotDisplaying" style="width:128px;height:128px;"> 
+<img path="portfolio/assets/gifs/HoudiniHammerheadfishWireframeMaterial.gif" alt="NotDisplaying" style="width:128px;height:128px;"> 
