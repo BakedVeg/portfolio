@@ -12,9 +12,9 @@ This is a part of some early testing I've been doing for simple organic creature
 
 
 
-![image](assets/gifs/HammerfishWireframeMaterial.gif)
+![image](/assets/gifs/HammerfishWireframeMaterial.gif)
 
 <figure>
-    <IMG SRC="assets/gifs/HammerfishWireframeMaterial.gif">
+    <IMG SRC="/assets/gifs/HammerfishWireframeMaterial.gif">
 </figure>
 
