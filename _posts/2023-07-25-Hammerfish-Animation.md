@@ -13,7 +13,7 @@ This is a part of some early testing I've been doing for creature animations, me
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishAnimLoopAlpha.gif">
 
-<img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishAnimLoopTopAlpha.gif">
+<img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishAnimTopAlpha.gif">
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/BodyCreationWalkthroughAlpha.gif">
 
