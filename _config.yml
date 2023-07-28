@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Alan B
-email:
+email: alanbarnett.inbox@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
 #twitter_username: username
@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Alan Barnett"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/ProfilePhoto.png"
   bio    : "I have a passion for procedural modeling/texturing using Houdini and Substance Designer. Coming from a science background, I value learning through mistakes and iteration, hopefully, more of the latter."
   links:
     - label: "LinkedIn"
