@@ -82,7 +82,7 @@ This is a part of some early testing I've been doing for creature animations, me
 
 <div style="clear: both;">
     <h2></h2>
-    <p>In Conclusion.</p>
+    <p>This was an extremely fun project, and I'm excited to continue working with VATs. I was really inspired by all the Houdini mograph artists out there. If you read this far I sincerely appreciate it, as this is my first write-up here. If you have any questions or comments don't hesitate to reach out. All of my contact information is linked on the left and at the bottom. Til next time!</p>
 </div>
 
 
