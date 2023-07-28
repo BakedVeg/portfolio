@@ -72,6 +72,8 @@ This is a part of some early testing I've been doing for creature animations, me
 </div>
 
 <br>
+<img src="https://bakedveg.github.io/portfolio/assets/images/HammerNormalMaps.png">
+
 <img src="https://bakedveg.github.io/portfolio/assets/images/HammerfishSkinDetail.png">
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/HammerfishInEngineAnim.gif">
