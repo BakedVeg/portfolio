@@ -26,8 +26,6 @@ The goal of this project was to extend my understanding of vertex-animated textu
     <p>Text</p>
 </div>
 
-<br>
-
 <img src="https://bakedveg.github.io/portfolio/assets/gif/LeafCreationandUVs.png">
 
 <br>
@@ -42,19 +40,12 @@ The goal of this project was to extend my understanding of vertex-animated textu
 
 
 
-
 <div style="clear: both;">
-  <div style="float: right; margin-right 1em;">
-    <img src="https://bakedveg.github.io/portfolio/assets/gif/VellumTentacleWalkthroughAlpha.gif">
-  </div>
-  <div>
-    <h2>Example</h2>
-    <p>Example of text to the side.</p>
-  </div>
+    <h2>Positioning and Animating</h2>
+    <p>Text</p>
 </div>
 
-<br>
-
+<img src="https://bakedveg.github.io/portfolio/assets/gif/BendPetal.png">
 
 
 <div style="clear: both;">
@@ -68,6 +59,7 @@ Ian Frederick's setup here: https://www.youtube.com/watch?v=WQSdMX-z7U4&t=26s
     <h2></h2>
     <p></p>
 </div>
+
 
 
 <br>
