@@ -60,6 +60,21 @@ The goal of this project was to extend my understanding of vertex-animated textu
 <img src="https://bakedveg.github.io/portfolio/assets/gif/FlowerFoldingOutSim.gif">
 
 
+<div style="clear: both;">
+    <h2>Outer Shell</h2>
+    <p>Text</p>
+</div>
+
+<img src="https://bakedveg.github.io/portfolio/assets/gif/OuterShellSliver.gif">
+
+
+<img src="https://bakedveg.github.io/portfolio/assets/gif/CreateOuterShell.png">
+
+
+<img src="https://bakedveg.github.io/portfolio/assets/gif/OuterShellSim.gif">
+
+
+<img src="https://bakedveg.github.io/portfolio/assets/gif/CompletePlantAnimation.gif">
 
 
 
