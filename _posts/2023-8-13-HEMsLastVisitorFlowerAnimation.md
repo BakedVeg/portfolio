@@ -49,6 +49,8 @@ The goal of this project was to extend my understanding of vertex-animated textu
 
 <br>
 
+<img src="https://bakedveg.github.io/portfolio/assets/gif/FlowerEndShape.gif">
+
 <img src="https://bakedveg.github.io/portfolio/assets/gif/FlowerEndShape.png">
 
 <br>
