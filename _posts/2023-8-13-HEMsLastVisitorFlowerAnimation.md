@@ -113,12 +113,13 @@ The resulting slivers were extruded to give them some visual thickness and then 
 
 <div style="clear: both;">
     <h2>Texturing</h2>
-    <p>The outer shell was much easier, as I just created a ribbed normal map for the interior. The exterior normal map and roughness/color variation for both sides were textures I had already created for the structure of the museum or for other projects.</p>
+    <p>The outer shell was much easier, as I just created a ribbed normal map for the interior. The exterior normal map and roughness/color variation for both sides were textures I had already created for the structure of the museum or for other projects. I used a couple of cheap contrast functions in the material to tweak different noises. The vertex colors from earlier are used to blend material attributes for the front and back. </p>
 </div>
 
 <br>
 
 <img src="https://bakedveg.github.io/portfolio/assets/images/ShellMaps.png">
+<br>
 <img src="https://bakedveg.github.io/portfolio/assets/images/AssetZooShot4.png">
 
 <br>
