@@ -41,7 +41,7 @@ The goal of this project was to extend my understanding of vertex-animated textu
 
 
 <div style="clear: both;">
-    <h2>Positioning and Animating</h2>
+    <h2>Positioning for Animation</h2>
     <p>Text</p>
 </div>
 
