@@ -113,7 +113,7 @@ The resulting slivers were extruded to give them some visual thickness and then 
 
 <div style="clear: both;">
     <h2>Texturing</h2>
-    <p>The outer shell was much easier, as I just created an Albedo Map for the exterior and a ribbed normal map for the interior. The exterior normal map and roughness/color variation for both sides were textures I had already created for the structure of the museum.</p>
+    <p>The outer shell was much easier, as I just created a ribbed normal map for the interior. The exterior normal map and roughness/color variation for both sides were textures I had already created for the structure of the museum or for other projects.</p>
 </div>
 
 <br>
@@ -122,7 +122,7 @@ The resulting slivers were extruded to give them some visual thickness and then 
 
 <br>
 
-The inspiration for this was the Elephant Ear Plant. There are a lot of interesting pink varieties, and I tried to take subtle details from them rather than a direct copy as it didn't seem to quite fit the leaf shape during my testing. The material in Unreal was two-sided, and the underside uses the same Albedo Map as the top and a mask for the subsurface scattering that gives a small hint of darker veins. I initially had a more complicated setup but the underside was never that visible and I felt it was just a waste.
+The inspiration for this was the Elephant Ear Plant. There are a lot of interesting pink varieties, and I tried to take subtle details from them rather than a direct copy as it didn't seem to quite fit the leaf shape during my testing. The material in Unreal was two-sided, with the underside using the same Albedo Map as the top and a mask for the subsurface scattering giving a hint of darker veins. I initially had a more complicated setup but the underside was never that visible and I felt it was just a waste.
 
 <br>
 
