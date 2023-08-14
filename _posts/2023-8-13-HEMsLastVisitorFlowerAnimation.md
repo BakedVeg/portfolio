@@ -73,7 +73,7 @@ I can't say I've ever had to reconstruct a bend at different points, but this wa
 
 <br>
 
-The animated petals are fed into another cloth sim with the same soft pinning constraints as before. The final animation is reversed with a time shift. I gave this a bit of additional scale animation so it feels like it has a bit of force when coming out the casing.
+The animated petals are fed into another cloth sim with the same soft pinning constraints as before. The final animation is reversed with a time shift. I gave this a bit of additional scale animation so it feels like it has a bit of force when coming out of the casing.
 
 <br>
 
