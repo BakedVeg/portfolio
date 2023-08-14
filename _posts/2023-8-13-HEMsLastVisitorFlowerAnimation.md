@@ -111,6 +111,14 @@ The resulting slivers were extruded to give them some visual thickness and then 
 
 
 
+<div style="clear: both;">
+    <h2>Texturing</h2>
+    <p>The outer shell was much easier, as I just created an Albedo Map for the exterior and a ribbed normal map for the interior. The exterior normal map and roughness/color variation for both sides were textures I had already created for the structure of the museum.</p>
+</div>
+
+
+
+
 
 
 
