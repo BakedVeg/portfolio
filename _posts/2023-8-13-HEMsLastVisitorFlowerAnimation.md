@@ -26,12 +26,13 @@ The goal of this project was to extend my understanding of vertex-animated textu
     <p>Text</p>
 </div>
 
+<br>
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/LeafCreationandUVs.gif">
 <img src="https://bakedveg.github.io/portfolio/assets/gif/GroupStartEndandRemesh.gif">
 <img src="https://bakedveg.github.io/portfolio/assets/gif/BendPetal.gif">
 
-
+<br>
 
 
 
