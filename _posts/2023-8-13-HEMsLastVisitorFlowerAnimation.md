@@ -23,7 +23,7 @@ The goal of this project was to extend my understanding of vertex-animated textu
 
 <div style="clear: both;">
     <h2>Petal Creation</h2>
-    <p>Text</p>
+    <p>The petal modeling is the only real difference between my flower setup and Ian's. I start with a simple leaf node from Sidefx Labs, create some UVs, then remesh it. I attempted to use a cleaner geometry for the petal, but there were just too many intersections during the cloth sim for my liking. The top and bottom points are grouped for later, and the petal is bent into its recognizable shape.</p>
 </div>
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/LeafCreationandUVs.png">
