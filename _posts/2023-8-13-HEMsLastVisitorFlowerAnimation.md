@@ -45,7 +45,7 @@ The goal of this project was to extend my understanding of vertex-animated textu
     <p>Text</p>
 </div>
 
-<img src="https://bakedveg.github.io/portfolio/assets/gif/BendPetal.png">
+<img src="https://bakedveg.github.io/portfolio/assets/gif/PetalPositioning.gif">
 
 
 <div style="clear: both;">
