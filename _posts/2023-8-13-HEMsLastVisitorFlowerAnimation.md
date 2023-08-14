@@ -55,6 +55,8 @@ This animation is run through a vellum cloth sim with soft pinning constraints.
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/FlowerEndShape.gif">
 
+<br>
+
 Vellum Brush is used afterward to get the desired shape. This will be the end result.
 
 <br>
@@ -78,19 +80,26 @@ The animated petals are fed into another cloth sim with the same soft pinning co
 <img src="https://bakedveg.github.io/portfolio/assets/gif/FlowerFoldingOutSim.gif">
 
 
+
+
+
+
 <div style="clear: both;">
     <h2>Outer Shell</h2>
-    <p>Text</p>
+    <p>As I was making the flower animation I knew it was going to be large in the Unreal scene, besides needing some place to hide this thing before it unfolds, I thought it'd be interesting to have an initial bud that it blooms out of. I created a sliver of this "shell" and gave it a pin group at the bottom of the mesh for the vellum sim later.</p>
 </div>
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/OuterShellSliver.gif">
 
+I hadn't used MOPS before but I finally downloaded them, and I do think it keeps the setup a bit cleaner. The pieces are arranged in two layers surrounding the flower.
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/CreateOuterShell.png">
 
+The flower animation is brought in and merged with a grid (I want this to visualize the floor at the end) to form the collider for the "shell". Later on in the project I started putting vines along the ground and brought those into Houdini to merge in as well. This ended up making the final result a lot better as the slivers were pinned between two objects and moved around in more interesting ways.
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/OuterShellSim.gif">
 
+The resulting slivers were extruded to give them some visual thickness and then smoothed to take care of any sharp angles. Vertex colors were added so I could easily texture both sides of the mesh with one material in Unreal.
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/CompletePlantAnimation.gif">
 
