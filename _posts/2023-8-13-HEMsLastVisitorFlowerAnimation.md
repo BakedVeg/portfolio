@@ -118,6 +118,7 @@ The resulting slivers were extruded to give them some visual thickness and then 
 
 <br>
 
+<img src="https://bakedveg.github.io/portfolio/assets/images/ShellMaps.png">
 <img src="https://bakedveg.github.io/portfolio/assets/images/AssetZooShot4.png">
 
 <br>
