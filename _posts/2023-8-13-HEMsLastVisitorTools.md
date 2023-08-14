@@ -19,7 +19,7 @@ This is placeholder text.
 <br>
 
 <div style="clear: both;">
-    <h2></h2>
+    <h2>Heading</h2>
     <p>Text</p>
 </div>
 
