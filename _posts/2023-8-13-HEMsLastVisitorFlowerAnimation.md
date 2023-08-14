@@ -27,6 +27,15 @@ The goal of this project was to extend my understanding of vertex-animated textu
 </div>
 
 
+<img src="https://bakedveg.github.io/portfolio/assets/gif/LeafCreation&UVs.gif">
+<img src="https://bakedveg.github.io/portfolio/assets/gif/GroupStartEnd&Remesh.gif">
+<img src="https://bakedveg.github.io/portfolio/assets/gif/BendPetal.gif">
+
+
+
+
+
+
 <div style="clear: both;">
   <div style="float: right; margin-right 1em;">
     <img src="https://bakedveg.github.io/portfolio/assets/gif/VellumTentacleWalkthroughAlpha.gif">
