@@ -50,14 +50,28 @@ The goal of this project was to extend my understanding of vertex-animated textu
 <br>
 
 This animation is run through a vellum cloth sim with soft pinning constraints.
+
+<br>
+
 <img src="https://bakedveg.github.io/portfolio/assets/gif/FlowerEndShape.gif">
 
 Vellum Brush is used afterward to get the desired shape. This will be the end result.
+
+<br>
+
 <img src="https://bakedveg.github.io/portfolio/assets/gif/FlowerEndShape.png">
 
 <br>
 
+I can't say I've ever had to reconstruct a bend at different points, but this was easily the coolest little trick I got from seeing Ian's approach. We use the start and end points that we grouped earlier to get the capture origin, direction, and length for each of the petals. That's used to bend each one in, resulting in this folding animation.
+
+<br>
+
 <img src="https://bakedveg.github.io/portfolio/assets/gif/FlowerFoldingInAnim.gif">
+
+<br>
+
+The animated petals are fed into another cloth sim with the same soft pinning constraints as before. The final animation is reversed with a time shift. I gave this a bit of additional scale animation so it feels like it has a bit of force when coming out the casing.
 
 <br>
 
