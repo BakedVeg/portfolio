@@ -21,10 +21,6 @@ The goal of this project was to extend my understanding of vertex-animated textu
 <br>
 <br>
 
-<img src="https://bakedveg.github.io/portfolio/assets/gif/LeafCreationandUVs.gif">
-<img src="https://bakedveg.github.io/portfolio/assets/gif/GroupStartEndandRemesh.gif">
-<img src="https://bakedveg.github.io/portfolio/assets/gif/BendPetal.gif">
-
 <div style="clear: both;">
     <h2>Petal Creation</h2>
     <p>Text</p>
@@ -32,9 +28,9 @@ The goal of this project was to extend my understanding of vertex-animated textu
 
 <br>
 
-<img src="https://bakedveg.github.io/portfolio/assets/gif/LeafCreationandUVs.gif">
-<img src="https://bakedveg.github.io/portfolio/assets/gif/GroupStartEndandRemesh.gif">
-<img src="https://bakedveg.github.io/portfolio/assets/gif/BendPetal.gif">
+<img src="https://bakedveg.github.io/portfolio/assets/gif/LeafCreationandUVs.png">
+<img src="https://bakedveg.github.io/portfolio/assets/gif/GroupStartEndandRemesh.png">
+<img src="https://bakedveg.github.io/portfolio/assets/gif/BendPetal.png">
 
 <br>
 
