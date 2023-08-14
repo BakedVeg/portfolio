@@ -126,7 +126,7 @@ The resulting slivers were extruded to give them some visual thickness and then 
 
 <br>
 
-The inspiration for this was the Elephant Ear Plant. There are a lot of interesting pink varieties, and I tried to take subtle details from them rather than a direct copy as it didn't seem to quite fit the leaf shape during my testing. The material in Unreal was two-sided, with the underside using the same Albedo Map as the top and a mask for the subsurface scattering giving a hint of darker veins. I initially had a more complicated setup but the underside was never that visible and I felt it was just a waste.
+The inspiration for this was Elephant Ear Plants. There are a lot of interesting pink varieties of Caladium, and I tried to take subtle details from them rather than a direct copy as it didn't seem to quite fit the leaf shape during my testing. The material in Unreal was two-sided, with the underside using the same Albedo Map as the top and a mask for the subsurface scattering giving a hint of darker veins. I initially had a more complicated setup but the underside was never that visible and I felt it was just a waste.
 
 <br>
 
@@ -138,11 +138,15 @@ The inspiration for this was the Elephant Ear Plant. There are a lot of interest
 
 <br>
 
+The flower and outer shell were exported separately as soft body deformations using the Labs VAT node, and the final 65-frame animation was retimed in Unreal to be a bit slower.
+
+<br>
+
 <img src="https://bakedveg.github.io/portfolio/assets/gif/BloomingFlower.gif">
 
 <div style="clear: both;">
     <h2></h2>
-    <p>If you have any questions or comments don't hesitate to reach out. My contact information is linked on the left and at the bottom. Til next time!</p>
+    <p>I didn't have much experience with some of the newer vellum constraints in Houdini, but found them to be incredibly useful in allowing you to guide the simulation toward a more predictable result. Easily one of the most rewarding projects I've worked on since I've never created foliage this large in Designer and I was quite happy with the result. If you have any questions or comments don't hesitate to reach out. My contact information is linked on the left and at the bottom. Til next time!</p>
 </div>
 
 Ian Frederick's setup here: https://www.youtube.com/watch?v=WQSdMX-z7U4&t=26s
