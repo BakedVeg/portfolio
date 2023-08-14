@@ -42,15 +42,17 @@ The goal of this project was to extend my understanding of vertex-animated textu
 
 <div style="clear: both;">
     <h2>Positioning for Animation</h2>
-    <p>Text</p>
+    <p>The petals are arranged in a proper-looking orientation and then animated into a more final position.</p>
 </div>
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/PetalPositioning.gif">
 
 <br>
 
+This animation is run through a vellum cloth sim with soft pinning constraints.
 <img src="https://bakedveg.github.io/portfolio/assets/gif/FlowerEndShape.gif">
 
+Vellum Brush is used afterward to get the desired shape. This will be the end result.
 <img src="https://bakedveg.github.io/portfolio/assets/gif/FlowerEndShape.png">
 
 <br>
