@@ -122,9 +122,15 @@ The resulting slivers were extruded to give them some visual thickness and then 
 
 <br>
 
+The inspiration for this was the Elephant Ear Plant. There are a lot of interesting pink varieties, and I tried to take subtle details from them rather than a direct copy as it didn't seem to quite fit the leaf shape during my testing. The material in Unreal was two-sided, and the underside uses the same Albedo Map as the top and a mask for the subsurface scattering that gives a small hint of darker veins. I initially had a more complicated setup but the underside was never that visible and I felt it was just a waste.
+
+<br>
+
 <img src="https://bakedveg.github.io/portfolio/assets/images/AssetZooShot2.png">
 
+<br>
 
+<img src="https://bakedveg.github.io/portfolio/assets/gif/BloomingFlower.gif">
 
 <div style="clear: both;">
     <h2></h2>
