@@ -47,6 +47,27 @@ The goal of this project was to extend my understanding of vertex-animated textu
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/PetalPositioning.gif">
 
+<br>
+
+<img src="https://bakedveg.github.io/portfolio/assets/gif/FlowerEndShape.png">
+
+<br>
+
+<img src="https://bakedveg.github.io/portfolio/assets/gif/FlowerFoldingInAnim.gif">
+
+<br>
+
+<img src="https://bakedveg.github.io/portfolio/assets/gif/FlowerFoldingOutSim.gif">
+
+
+
+
+
+
+
+
+
+
 
 <div style="clear: both;">
     <h2></h2>
