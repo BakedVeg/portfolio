@@ -40,7 +40,7 @@ I knew before I started the project that the He Art Museum would be the backdrop
 
 <div style="clear: both;">
     <h2>Vine Generation</h2>
-    <p>Text</p>
+    <p>These were fun to play with. There were two separate HDAs for creating all the vines. One had additional inputs for collision objects, and the other for scattering on the final mesh. A main curve was placed in Unreal, and this was wrapped with additional curves. All of those were run through a vellum solver using hair constraints. These were either pinned at the ends or allowed to completely fall onto the colliders. Both versions of this HDA had post-smoothing and curve radius controls, as well as a slot for any material instances, for which I used a light-colored bark from Quixel.</p>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TagYh-tuoCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -49,7 +49,7 @@ I knew before I started the project that the He Art Museum would be the backdrop
 
 <div style="clear: both;">
     <h2>Bonus: Materials Overview</h2>
-    <p>Text</p>
+    <p>This wasn't enough to warrant its own blog post, but I used Megascans as a jumping-off point for the structural pieces. Additional height information was required for the concrete walls, and noise/grunge breakup for the whole kit. I like to give myself lots of control in the material instance and convert to constants later if needed. A couple of noise textures used throughout the project control blending between material attributes for the moss, puddles, and dry concrete. These same noise patterns are altered with cheap contrast, or simply adding/subtracting small values to get the desired effect for the stairs and walls. In all, there were five different materials for the structure, one of which I didn't touch at all as the rusty gas tank from Megascans did the job well for the handrails.</p>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_fWKdqvzUfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
