@@ -8,7 +8,7 @@ tags:
   - Substance
 ---
 
-The goal of this project was to extend my understanding of vertex-animated textures, focusing on how best to split and texture the resulting geometry. The initial unfolding of the flower is essentially a setup I found from Ian Frederick (link at the bottom). It's a fairly simple vellum cloth sim that gets reversed at the end, as you'll see. The pod it blooms from is a separate sim that uses the initial flower blooming as a collider. In this breakdown, I'll walk you through the Houdini networks and show the textures that were made in Substance Designer.
+The goal of this project was to extend my understanding of vertex-animated textures, focusing on how best to split and texture the resulting geometry. The initial unfolding of the flower is a modified setup I found from Ian Frederick (link at the bottom). It's a fairly simple vellum cloth sim that gets reversed at the end, as you'll see. The pod it blooms from is a separate sim that uses the initial flower blooming as a collider. In this breakdown, I'll walk you through the Houdini networks and show the textures that were made in Substance Designer.
 
 <div style="clear: both;">
     <h2></h2>
@@ -23,7 +23,7 @@ The goal of this project was to extend my understanding of vertex-animated textu
 
 <div style="clear: both;">
     <h2>Petal Creation</h2>
-    <p>The petal modeling is the only real difference between my flower setup and Ian's. I start with a simple leaf node from Sidefx Labs, create some UVs, then remesh it. I attempted to use a cleaner geometry for the petal, but there were just too many intersections during the cloth sim for my liking.</p>
+    <p>I start with a simple leaf node from Sidefx Labs, create some UVs, then remesh it. I attempted to use a cleaner geometry for the petal, but there were just too many intersections during the cloth sim for my liking.</p>
 </div>
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/LeafCreationandUVs.png">
@@ -89,7 +89,7 @@ The animated petals are fed into another cloth sim with the same soft pinning co
 
 <div style="clear: both;">
     <h2>Outer Shell</h2>
-    <p>As I was making the flower animation I knew it was going to be large in the Unreal scene, besides needing some place to hide this thing before it unfolds, I thought it'd be interesting to have an initial bud that it blooms out of. I created a sliver of this "shell" and gave it a pin group at the bottom of the mesh for the vellum sim later.</p>
+    <p>As I was making the flower animation I knew it was going to be large in the Unreal scene, needing some place to hide this thing before it unfolds, I thought it'd be interesting to have an initial bud that it blooms out of. I created a sliver of this "shell" and gave it a pin group at the bottom of the mesh for the vellum sim later.</p>
 </div>
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/OuterShellSliver.gif">
