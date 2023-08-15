@@ -8,7 +8,7 @@ tags:
   - Substance
 ---
 
-I knew before I started the project that the He Art Museum would be the backdrop for the plant animation, but as I continued to piece things together, this idea about what these large public structures would look like if we weren't around kept creeping in. I thought about how plants would surely be the last visitors to our monuments. So after completing the structure, I set out to create a few tools to quickly "dress" every surface with a happy little visitor. In this brief breakdown, I'll walk you through a few of the tools I created to speed things along.
+I knew before I started the project that the He Art Museum would be the backdrop for the plant animation, but as I continued to piece things together, this idea about what these large public structures would look like if we weren't around kept creeping in. I thought about how plants would surely be some of the last visitors to our monuments. So after completing the structure, I set out to create a few tools to quickly "dress" every surface with a happy little visitor. In this brief breakdown, I'll walk you through a few of the tools I created to speed things along.
 
 <div style="clear: both;">
     <h2></h2>
