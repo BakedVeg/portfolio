@@ -33,7 +33,7 @@ The goal of this project was to extend my understanding of vertex-animated textu
 
 <br>
 
-The top and bottom points are grouped for later, and the petal is bent into its recognizable shape.
+The top and bottom points are grouped for later and the petal is bent into its recognizable shape.
 
 <br>
 
