@@ -62,13 +62,3 @@ I knew before I started the project that the He Art Museum would be the backdrop
     <h2></h2>
     <p>If you have any questions or comments don't hesitate to reach out. My contact information is linked on the left and at the bottom. Til next time!</p>
 </div>
-
-
-<br>
-
-
-
-<div style="clear: both;">
-    <h2></h2>
-    <p></p>
-</div>
