@@ -29,14 +29,24 @@ I knew before I started the project that the He Art Museum would be the backdrop
 
 
 
-
-
 <div style="clear: both;">
     <h2>Fern/Leaf Scattering</h2>
     <p>Text</p>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jdz42H3bdbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+<div style="clear: both;">
+    <h2>Vine Generation</h2>
+    <p>Text</p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TagYh-tuoCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 
 
 
