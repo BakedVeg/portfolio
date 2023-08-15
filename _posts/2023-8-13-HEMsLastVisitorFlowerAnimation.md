@@ -163,8 +163,11 @@ Ian Frederick's setup here: https://www.youtube.com/watch?v=WQSdMX-z7U4&t=26s
 
 
 <div style="clear: both;">
-    <h2>Full Network</h2>
+    <h2>Full Networks</h2>
     <p></p>
 </div>
 <img src="https://bakedveg.github.io/portfolio/assets/images/FlowerSimNetwork.png">
+
+<br>
+
 <img src="https://bakedveg.github.io/portfolio/assets/images/OuterShellSimNetwork.png">
