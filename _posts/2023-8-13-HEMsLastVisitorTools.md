@@ -28,7 +28,6 @@ I knew before I started the project that the He Art Museum would be the backdrop
 
 <div style="clear: both;">
   <div style="float: right; margin-right 1em;">
-    <img src="https://bakedveg.github.io/portfolio/assets/gif/VellumTentacleWalkthroughAlpha.gif">
   </div>
   <div>
     <h2>Example</h2>
