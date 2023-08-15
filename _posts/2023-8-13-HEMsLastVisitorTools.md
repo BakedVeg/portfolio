@@ -24,9 +24,8 @@ I knew before I started the project that the He Art Museum would be the backdrop
     <h2>Ivy Scattering</h2>
     <p>Text</p>
 </div>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uS5XyUBHr0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 
 <div style="clear: both;">
   <div style="float: right; margin-right 1em;">
