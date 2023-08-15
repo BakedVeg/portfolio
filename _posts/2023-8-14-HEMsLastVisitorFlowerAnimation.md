@@ -8,7 +8,7 @@ tags:
   - Substance
 ---
 
-The goal of this project was to extend my understanding of vertex-animated textures, focusing on how best to split and texture the resulting geometry. The initial unfolding of the flower is a modified setup I found from Ian Frederick (link at the bottom). It's a fairly simple vellum cloth sim that gets reversed at the end, as you'll see. The pod it blooms from is a separate sim that uses the initial flower blooming as a collider. In this breakdown, I'll walk you through the Houdini networks and show the textures that were made in Substance Designer.
+The goal of this project was to extend my understanding of vertex-animated textures, focusing on how best to split and texture the resulting geometry. The initial unfolding of the flower is a modified setup I found from Ian Frederick. It's a fairly simple vellum cloth sim that gets reversed at the end, as you'll see. The pod it blooms from is a separate sim that uses the initial flower blooming as a collider. In this breakdown, I'll walk you through the Houdini networks and show the textures that were made in Substance Designer.
 
 <div style="clear: both;">
     <h2></h2>
@@ -149,7 +149,6 @@ The flower and outer shell were exported separately as soft body deformations us
     <p>I didn't have much experience with some of the newer vellum constraints in Houdini, but found them to be incredibly useful in allowing you to guide the simulation toward a more predictable result. Easily one of the more rewarding projects I've worked on since I've never created foliage this large in Designer. I was quite happy with the result. If you have any questions or comments, don't hesitate to reach out. My contact information is linked on the left and at the bottom. 'Til next time!</p>
 </div>
 
-Ian Frederick's setup here: https://www.youtube.com/watch?v=WQSdMX-z7U4&t=26s
 
 <div style="clear: both;">
     <h2></h2>
