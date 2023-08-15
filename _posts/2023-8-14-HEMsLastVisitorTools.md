@@ -40,7 +40,7 @@ I knew before I started the project that the He Art Museum would be the backdrop
 
 <div style="clear: both;">
     <h2>Vine Generation</h2>
-    <p>These were fun to play with. There were two separate HDAs for creating all the vines. One had additional inputs for collision objects, and the other for scattering on the final mesh. A main curve was placed in Unreal, and this was wrapped with additional curves. All of those were run through a vellum solver using hair constraints. These were either pinned at the ends or allowed to completely fall onto the colliders. Both versions of this HDA had post-smoothing and curve radius controls, as well as a slot for any material instances, for which I used a light-colored bark from Quixel.</p>
+    <p>There were two separate HDAs for creating all the vines. One had additional inputs for collision objects, and the other for scattering on the final mesh. A main curve was placed in Unreal, and this was wrapped with additional curves. All of those were run through a vellum solver using hair constraints. These were either pinned at the ends or allowed to completely fall onto the colliders. Both versions of this HDA had post-smoothing and curve radius controls, as well as a slot for any material instances, for which I used a light-colored bark from Quixel.</p>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TagYh-tuoCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
