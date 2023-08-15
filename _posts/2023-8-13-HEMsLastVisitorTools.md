@@ -31,7 +31,7 @@ I knew before I started the project that the He Art Museum would be the backdrop
 
 <div style="clear: both;">
     <h2>Fern/Leaf Scattering</h2>
-    <p>Ferns and leaves were scattered using the same tool. It's essentially the ivy scatter HDA but with a couple of extra parameters. This tool was meant to scatter on both the main floor and staircases, as such it has a scatter exclusion scale so I didn't have any clipping into the main plant, and a drop-down menu for selecting an area to scatter on. The incoming meshes from Unreal are separated based on normal orientation and scatter location is selected after that.</p>
+    <p>Ferns and leaves were scattered using the same tool. It's essentially the ivy scatter HDA but with a couple of extra parameters. This tool was meant to scatter on both the main floor and staircases, therefore, it has a scatter exclusion scale so I didn't have any clipping into the main plant, and a drop-down menu for selecting an area to scatter on. The incoming meshes from Unreal are separated based on normal orientation and scatter location is selected after that. The larger leaf meshes were made in Houdini by scattering handmade leaves on a grid (which I think is by far the easiest way to get an optimized result). The leaves were cut from a Quixel atlas in Blender. </p>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jdz42H3bdbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
