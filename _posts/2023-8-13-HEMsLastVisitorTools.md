@@ -22,7 +22,7 @@ I knew before I started the project that the He Art Museum would be the backdrop
 
 <div style="clear: both;">
     <h2>Ivy Scattering</h2>
-    <p>Text</p>
+    <p>The scene uses four instances of the same ivy scatter HDA. The available parameters are simple as I either wanted ivy hanging from walls or under the stairs. The main points are an easy-to-understand density parameter, size and rotation control, the all-important seed, and a toggle to populate inside faces. This last parameter is a group based on normals facing the origin.</p>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uS5XyUBHr0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -31,7 +31,7 @@ I knew before I started the project that the He Art Museum would be the backdrop
 
 <div style="clear: both;">
     <h2>Fern/Leaf Scattering</h2>
-    <p>Text</p>
+    <p>Ferns and leaves were scattered using the same tool. It's essentially the ivy scatter HDA but with a couple of extra parameters. This tool was meant to scatter on both the main floor and staircases, as such it has a scatter exclusion scale so I didn't have any clipping into the main plant, and a drop-down menu for selecting an area to scatter on. The incoming meshes from Unreal are separated based on normal orientation and scatter location is selected after that.</p>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jdz42H3bdbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
