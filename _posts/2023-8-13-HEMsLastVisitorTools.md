@@ -47,6 +47,12 @@ I knew before I started the project that the He Art Museum would be the backdrop
 
 
 
+<div style="clear: both;">
+    <h2>Bonus: Materials Overview</h2>
+    <p>Text</p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y7WZWp_pFv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
