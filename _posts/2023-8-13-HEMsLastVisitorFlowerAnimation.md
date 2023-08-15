@@ -166,4 +166,5 @@ Ian Frederick's setup here: https://www.youtube.com/watch?v=WQSdMX-z7U4&t=26s
     <h2>Full Network</h2>
     <p></p>
 </div>
-<img src="https://bakedveg.github.io/portfolio/assets/images/InsertImage.png">
+<img src="https://bakedveg.github.io/portfolio/assets/images/FlowerSimNetwork.png">
+<img src="https://bakedveg.github.io/portfolio/assets/images/OuterShellSimNetwork.png">
