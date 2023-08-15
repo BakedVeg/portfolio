@@ -56,17 +56,6 @@ I knew before I started the project that the He Art Museum would be the backdrop
 
 
 
-<div style="clear: both;">
-  <div style="float: right; margin-right 1em;">
-  </div>
-  <div>
-    <h2>Example</h2>
-    <p>Example of text to the side.</p>
-  </div>
-</div>
-
-<br>
-
 
 
 <div style="clear: both;">
@@ -80,7 +69,6 @@ I knew before I started the project that the He Art Museum would be the backdrop
 
 
 <div style="clear: both;">
-    <h2>Full Network</h2>
+    <h2></h2>
     <p></p>
 </div>
-<img src="https://bakedveg.github.io/portfolio/assets/images/InsertImage.png">
