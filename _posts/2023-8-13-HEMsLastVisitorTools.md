@@ -19,9 +19,11 @@ I knew before I started the project that the He Art Museum would be the backdrop
 <br>
 
 <div style="clear: both;">
-    <h2></h2>
+    <h2>Ivy Scattering</h2>
     <p>Text</p>
 </div>
+<img src="https://bakedveg.github.io/portfolio/assets/gif/IvyScatteringOverview.gif">
+
 
 
 <div style="clear: both;">
