@@ -146,7 +146,7 @@ The flower and outer shell were exported separately as soft body deformations us
 
 <div style="clear: both;">
     <h2></h2>
-    <p>I didn't have much experience with some of the newer vellum constraints in Houdini, but found them to be incredibly useful in allowing you to guide the simulation toward a more predictable result. Easily one of the most rewarding projects I've worked on since I've never created foliage this large in Designer and I was quite happy with the result. If you have any questions or comments don't hesitate to reach out. My contact information is linked on the left and at the bottom. Til next time!</p>
+    <p>I didn't have much experience with some of the newer vellum constraints in Houdini, but found them to be incredibly useful in allowing you to guide the simulation toward a more predictable result. Easily one of the more rewarding projects I've worked on since I've never created foliage this large in Designer and I was quite happy with the result. If you have any questions or comments don't hesitate to reach out. My contact information is linked on the left and at the bottom. Til next time!</p>
 </div>
 
 Ian Frederick's setup here: https://www.youtube.com/watch?v=WQSdMX-z7U4&t=26s
