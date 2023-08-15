@@ -94,15 +94,15 @@ The animated petals are fed into another cloth sim with the same soft pinning co
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/OuterShellSliver.gif">
 
-I hadn't used MOPS before but I finally downloaded them, and I do think it keeps the setup a bit cleaner. The pieces are arranged in two layers surrounding the flower.
+I hadn't used MOPS before, but I finally downloaded them and I think it keeps the setup a bit cleaner. The pieces are arranged in two layers surrounding the flower.
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/CreateOuterShell.png">
 
-The flower animation is brought in and merged with a grid (I want this to visualize the floor at the end) to form the collider for the "shell". Later on in the project I started putting vines along the ground and brought those into Houdini to merge in as well. This ended up making the final result a lot better as the slivers were pinned between two objects and moved around in more interesting ways.
+The flower animation is brought in and merged with a grid, to visualize the floor at the end, forming the collider for the "shell". Later on in the project I started putting vines along the ground and brought those into Houdini to merge in. This made the final result a lot better as the slivers were pinned between two objects and moved around in more interesting ways.
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/OuterShellSim.gif">
 
-The resulting slivers were extruded to give them some visual thickness and then smoothed to take care of any sharp angles. Vertex colors were added so I could easily texture both sides of the mesh with one material in Unreal.
+The resulting slivers were extruded to give them visual thickness and smoothed to take care of any sharp angles. Vertex colors were added so I could easily texture both sides of the mesh with one material in Unreal.
 
 <img src="https://bakedveg.github.io/portfolio/assets/gif/CompletePlantAnimation.gif">
 
@@ -113,7 +113,7 @@ The resulting slivers were extruded to give them some visual thickness and then 
 
 <div style="clear: both;">
     <h2>Texturing</h2>
-    <p>The outer shell was much easier, as I just created a ribbed normal map for the interior. The exterior normal map and roughness/color variation for both sides were textures I had already created for the structure of the museum or for other projects. I used a couple of cheap contrast functions in the material to tweak different noises. The vertex colors from earlier are used to blend material attributes for the front and back. </p>
+    <p>The outer shell was much easier as I just created a ribbed normal map for the interior. The exterior normal map and roughness/color variation for both sides were textures I had already created for the structure of the museum or for other projects. I used a couple of cheap contrast functions in the material to tweak different noises. The vertex colors from earlier are used to blend material attributes for the front and back. </p>
 </div>
 
 <br>
@@ -126,7 +126,7 @@ The resulting slivers were extruded to give them some visual thickness and then 
 
 <br>
 
-The inspiration for this was Elephant Ear Plants. There are a lot of interesting pink varieties of Caladium, and I tried to take subtle details from them rather than a direct copy as it didn't seem to quite fit the leaf shape during my testing. The material in Unreal was two-sided, with the underside using the same Albedo Map as the top and a mask for the subsurface scattering giving a hint of darker veins. I initially had a more complicated setup but the underside was never that visible and I felt it was just a waste.
+The inspiration for this were Elephant Ear Plants. There are a lot of interesting pink varieties of Caladium. I tried to take subtle details from them rather than a direct copy as it didn't fit the leaf shape during my testing. The material in Unreal was two-sided with the underside using the same Albedo Map as the top. A mask for the subsurface scattering gives a hint of darker veins. I initially had a more complicated setup, but the underside was never that visible and I felt it was a waste.
 
 <br>
 
@@ -138,7 +138,7 @@ The inspiration for this was Elephant Ear Plants. There are a lot of interesting
 
 <br>
 
-The flower and outer shell were exported separately as soft body deformations using the Labs VAT node, and the final 65-frame animation was retimed in Unreal to be a bit slower.
+The flower and outer shell were exported separately as soft body deformations using the Labs VAT node. The final 65-frame animation was retimed in Unreal to be a bit slower.
 
 <br>
 
@@ -146,7 +146,7 @@ The flower and outer shell were exported separately as soft body deformations us
 
 <div style="clear: both;">
     <h2></h2>
-    <p>I didn't have much experience with some of the newer vellum constraints in Houdini, but found them to be incredibly useful in allowing you to guide the simulation toward a more predictable result. Easily one of the more rewarding projects I've worked on since I've never created foliage this large in Designer and I was quite happy with the result. If you have any questions or comments don't hesitate to reach out. My contact information is linked on the left and at the bottom. Til next time!</p>
+    <p>I didn't have much experience with some of the newer vellum constraints in Houdini, but found them to be incredibly useful in allowing you to guide the simulation toward a more predictable result. Easily one of the more rewarding projects I've worked on since I've never created foliage this large in Designer. I was quite happy with the result. If you have any questions or comments, don't hesitate to reach out. My contact information is linked on the left and at the bottom. 'Til next time!</p>
 </div>
 
 Ian Frederick's setup here: https://www.youtube.com/watch?v=WQSdMX-z7U4&t=26s
