@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Alan Barnett"
   avatar : "/assets/images/ProfilePhoto.png"
-  bio    : "With a passion for procedural modeling/texturing using Houdini and Substance Designer, I value learning through mistakes and iteration, hopefully, more of the latter."
+  bio    : "I have a passion for procedural modeling/texturing using Houdini and Substance Designer."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
